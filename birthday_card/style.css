@@ -1,0 +1,25 @@
+body {
+    background-color: #ffffcc;
+}
+
+#header {
+    background-color: #660066;
+    color:#66ff99;
+}
+
+.signature {
+    font-family: "Comic Sans MS", cursive;
+}
+
+.money {
+    font: 20pt Impact, sans-serif;
+    color: #003300;
+    cursor: grabbing;
+}
+
+#slizzard {
+    border: groove;
+    font: 14pt Impact, sans-serif;
+    background-color: #ff0000;
+    color: #00ffff;
+}
